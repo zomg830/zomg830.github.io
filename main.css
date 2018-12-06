@@ -5,3 +5,7 @@ p{
 body{
     background-color: darkkhaki;
 }
+
+.image{
+    max-width:480px;
+}
