@@ -9,6 +9,10 @@
     padding:20px;
 }
 
+h1{
+    max-width:100%;
+    font-size:4vmin;
+}
 
 .flex-item{
     background:silver;
